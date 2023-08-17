@@ -1,9 +1,9 @@
 ### Hi there, this is what I am currently working ON 👋
 
 
-- 🔭 I’m currently working on ... Matlab Project  
-- 🌱 I’m currently learning ... Octave
-- 👯 I’m looking to collaborate on ... Octave  
+- 🔭 I’m currently working on ... Intrusion Detection System  
+- 🌱 I’m currently learning ... Splunk
+- 👯 I’m looking to collaborate on ... Azure 
 - 🤔 I’m looking for help with ... Azure CI/CD
 - 💬 Ask me about ... Cyber Security
 - 📫 How to reach me: ... er.aadharshah@gmail.com
